@@ -78,3 +78,5 @@ Control.last-run
 Control.ca-list 
 Control.ca-bundle 
 Control.system-ca-bundle 
+htmlcov/
+*.md

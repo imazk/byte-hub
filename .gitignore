@@ -54,6 +54,7 @@ venv.bak/
 /site 
 .mypy_cache/ 
 sftp-config.json 
+.vscode/
 .vscode/* 
 !.vscode/settings.json 
 !.vscode/tasks.json 
